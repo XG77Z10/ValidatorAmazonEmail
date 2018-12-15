@@ -1,7 +1,8 @@
 # Valid-Amazon
 #Valid Amazon email
- Holla Guys, :)
- Cara Menjalankanya Tools ini Cukup Mudah , Ikuti Langkah-Langkah Berikut :
+ 
+Holla Guys, :)\n
+Cara Menjalankanya Tools ini Cukup Mudah , Ikuti Langkah-Langkah Berikut :\n
  
 -Install Dahulu Pythonnya
 -Install Python PIPnya
