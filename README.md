@@ -1,5 +1,5 @@
 # Valid-Amazon
-#Valid Amazon email
+#Validator Amazon Email
  
 '(Holla Guys,)'
 
