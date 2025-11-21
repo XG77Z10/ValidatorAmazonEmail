@@ -3,13 +3,13 @@
  
 '(Holla Guys,)'
 
-'Cara Menjalankanya Tools ini Cukup Mudah , Ikuti Langkah-Langkah Berikut :'
+'How to run this tool is quite easy, follow these steps:'
 
-'-Install Dahulu Pythonnya'
+'-Install Python'
 '- Paython2.7'
-'-Install Python PIPnya'
-'Jika Sudah Silahkan Meminta Request Ke PIP'
-'Dengan Command '
+'-Install Python PIP'
+'If so, please submit a request to PIP.'
+'Use Command '
 
 ```bash
 pip install requests
@@ -18,5 +18,4 @@ pip install color
 pip install colorama
 ```
 
-By : Zioalfino/X-G77Z10HACKED
-Contact Me : fb.me/ZioAlfino
+By : X-G77Z10HACKED
